@@ -18,7 +18,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Dashboard",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",

@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Electronic sight and scent for better crops
+      text: Sprout Sense for better crops
       color: text-dark
       type: TitleBlock
     subtitle: A multi-sensor approach

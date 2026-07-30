@@ -4,9 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        Electronic sight and scent to help indoor growers produce better crops
-        for less
+      text: Electronic sight and scent for better crops
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here

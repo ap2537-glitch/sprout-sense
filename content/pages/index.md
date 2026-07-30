@@ -7,7 +7,7 @@ sections:
       text: Electronic sight and scent for better crops
       color: text-dark
       type: TitleBlock
-    subtitle: Multi-sensing approach
+    subtitle: A multi-sensor approach
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a

@@ -4,7 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: >-
+        Electronic sight and scent to help indoor growers produce better crops
+        for less
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here

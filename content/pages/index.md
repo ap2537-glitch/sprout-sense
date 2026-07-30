@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: A multi-sensor approachwhich
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Sprout sense use electronic sensors to capture a digital profile plant
+      secondary metabolites, the plant chemicals behind nutrition, taste, and
+      indicators of plant health.
     actions:
       - label: Get started
         altText: ''

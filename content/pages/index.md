@@ -7,7 +7,7 @@ sections:
       text: Electronic sight and scent for better crops
       color: text-dark
       type: TitleBlock
-    subtitle: A multi-sensor approachwhich
+    subtitle: A multi-sensor approach
     text: >
       Sprout sense uses electronic sensors to capture a digital profile plant
       secondary metabolites, the plant chemicals behind nutrition, taste, and

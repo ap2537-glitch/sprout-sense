@@ -33,7 +33,7 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/20260720_S_logo.png",
+        "url": "/images/20260720_S_logo.svg",
         "altText": "Image alt text placeholder",
         "elementId": "logo",
         "styles": {

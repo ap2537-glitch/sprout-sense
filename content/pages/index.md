@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: A multi-sensor approach
     text: >
-      Sprout sense uses electronic sensors to capture a digital profile plant
+      Sprout Sense uses electronic sensors to capture a digital profile plant
       secondary metabolites, the plant chemicals behind nutrition, taste, and
       indicators of plant health.
     actions:

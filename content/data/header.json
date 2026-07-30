@@ -1,16 +1,4 @@
 {
-    "logo": {
-        "url": "/images/03_S_colour_on_circle.png",
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "primaryLinks": [
         {
             "label": "Pricing",

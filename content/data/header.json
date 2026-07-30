@@ -74,7 +74,7 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/hero2.svg",
+        "url": "/images/03_S_colour_on_circle.png",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {
